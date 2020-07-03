@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@neogrid/react/*": [
+        "core/react/*"
+      ],
+      "@neogrid/types/*": [
+        "core/types/*"
+      ],
+      "@app/dashboard/*": [
+        "modules/dashboard/*"
+      ],
+      "@app/sales/*": [
+        "modules/sales/*"
+      ]
+    }
+  }
+}

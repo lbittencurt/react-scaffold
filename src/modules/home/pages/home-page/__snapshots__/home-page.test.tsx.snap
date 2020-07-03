@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="site-layout-background"
+    style="padding: 24px; min-height: 360px;"
+  >
+    <h2>
+      Bem-vindo ao Neogrid Sample
+    </h2>
+    <p>
+      Este projeto tem o objetivo de ser um "sample", ou seja um projeto modelo para ajudar os times de produtos e sistemas internos da Neogrid a construirem interfaces.
+      <br />
+      Dúvidas a respeito do funcionamento do projeto, fiquem a vontade para acionar o time de Arquitetura da Neogrid.
+    </p>
+    <p>
+      No menu a esquerda é possível ver exemplos da criação de 
+      <strong>
+        formulários
+      </strong>
+       e 
+      <strong>
+        listas
+      </strong>
+      .
+    </p>
+    <br />
+    <h3>
+      Como contribuir
+    </h3>
+    <ul>
+      <li>
+        Baixe o projeto (pode ser necessário solicitar acesso ao repositório)
+      </li>
+      <li>
+        Crie uma branch para fazer a sua alteração
+      </li>
+      <li>
+        Crie um pull-request para a branch develop e documente no pull-request sobre a sua atualização
+      </li>
+    </ul>
+  </div>
+</DocumentFragment>
+`;
